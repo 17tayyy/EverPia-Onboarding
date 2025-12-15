@@ -1,1 +1,0 @@
-Mi nombre es Albert Teruel, soy informático y actualmente formo parte de la Consultoría Everpia. Me caracterizo por mi enfoque profesional, capacidad de adaptación y orientación a resultados, aportando soluciones tecnológicas eficientes y de calidad.
