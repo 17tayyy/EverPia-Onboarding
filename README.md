@@ -18,14 +18,14 @@ Treballareu en els vostres grups habituals.
 - El líder envia la contribucíó global del seu grup aquest repositori. Comproveu si el revisor ha acceptat la vostra contribució, en cas contrari, mireu el comnetari i solucioneu el problema.
 - Un cop tots els grups hagin enviat les seves contribucions, els líders actualitzen el seu repositori i finalment, la resta de membre fa el mateix.
 
-### Lliurament ###
+### Lliurament
 
 Cadascú de vosaltres ha de una secció al final del README.md del vostre repositori projecte 4 incloent els següents enllaços:
 - Enllaç aquest repositori [EverPia-Onboarding](https://github.com/SMX2n/EverPia-Onboarding)
 - Enllaç al repositori del seu grup [EverPia-Onboarding-GrupA012](https://github.com/SMX2n/EverPia-Onboarding)
 - Enllaç al repositori propi [EverPia-Onboarding-CarlesAlonso]((https://github.com/SMX2n/EverPia-Onboarding)
 
-### Materials i links de suport ###
+### Materials i links de suport
 Guia de l’activitat: 
 
 [https://github.com/SMX2n/Projecte04-GuiaGitHub](https://github.com/SMX2n/Projecte04-GuiaGitHub)
