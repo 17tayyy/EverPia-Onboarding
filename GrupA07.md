@@ -1,7 +1,9 @@
-[CV-RUI](RUI.md)
+**Estos son los miembros del grupo:**
 
-[CV-DANIEL G](DANIELG.md)
+-[CV-RUI](RUI.md)
 
-[CV-DANIEL MG](DANIELMG.md)
+-[CV-DANIEL G](DANIELG.md)
 
-[CV-JOAN](JOAN.md)
+-[CV-DANIEL MG](DANIELMG.md)
+
+-[CV-JOAN](JOAN.md)
